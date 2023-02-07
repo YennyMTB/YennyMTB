@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YennyMTB</h1>
+<h1 align="center">Hi 👋, I'm Yenny</h1>
 <h3 align="center">I love web development, learning new topics and imagining what I can do programming it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yennymtb&label=Profile%20views&color=0e75b6&style=flat" alt="yennymtb" /> </p>
